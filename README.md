@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/zijinan/youtube/main/YoutubeAds.conf, tag=YouT
 
 ```
 https://raw.githubusercontent.com/zijinan/youtube/main/YoutubeAds.conf, tag=YouTube去广告(字幕兼容), update-interval=172800, opt-parser=false, enabled=true
-https://github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.qxrewrite, tag=YouTube双语字幕, update-interval=172800, opt-parser=true, enabled=true
+https://github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.plugin, tag=YouTube双语字幕, update-interval=172800, opt-parser=true, enabled=true
 ```
 
 > ⚠️ **重要**：去广告配置必须在 DualSubs 上方，QX 中位置靠上的重写优先级更高。
